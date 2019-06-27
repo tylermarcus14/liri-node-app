@@ -11,3 +11,18 @@ This app will look up a song, movie, or concert and display information about th
 3) Next the user will type in what they would like to search. 
 Ex. 'node liri.js spotify-this-song This Must Be the Place'
 4) The app will return the information!
+
+
+### Photos
+
+spotify-this-song:
+![Spotify](/pics/spotify-this.png)
+
+movie-this:
+![Movie](/pics/movie-this.png)
+
+concert-this:
+![Concert](/pics/concert-this.png)
+
+
+

@@ -69,7 +69,7 @@ function concertThis(){
       console.log("Artist: " + artist);
       console.log(JSON.stringify("Venue: " + response.data[0].venue.name));
       console.log(JSON.stringify("Location: " + response.data[0].venue.country));
-      console.log(JSON.stringify("Date: " + response.data[0].datatime));
+      console.log(JSON.stringify("Date: " + response.data[0].datetime));
     })
 }
 
